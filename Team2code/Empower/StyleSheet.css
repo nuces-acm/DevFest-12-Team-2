@@ -1,0 +1,95 @@
+﻿body {
+	background-image: url('headerBackgroundTall.jpg');
+	background-repeat: repeat-x;
+}
+#wrapper {
+	width: 750px;
+	margin: 0px auto 0px auto;
+}
+.iphone {
+	padding-top: 40px;
+	width: 281px;
+	float: left;
+	position: relative;
+	height: 662px;
+}
+a {
+	float: right;
+	width: 65%;
+}
+#intro {
+	padding: 10px;
+	border: 1px solid #C0C0C0;
+	border-radius: 12px;
+	background-color: #F0F0F0;
+	font-family: "century Gothic";
+	font-size: medium;
+	font-weight: normal;
+	color: #333333;
+}
+.newStyle1 {
+	position: absolute;
+	bottom: -500px;
+}
+.newStyle2
+{
+	color:Red;
+	position: absolute;
+	bottom: -500px;
+}
+#content {
+	float: right;
+	width: 60%;
+}
+.auto-style1 {
+	color: #008000;
+}
+#HomePage {
+		padding: 10px;
+		margin: 0px auto 0px auto;
+		border-radius: 12px;
+		border: 2px solid #C0C0C0;
+		background-color: #CCCCCC;
+		font-family: "Century Gothic";
+		width: 650px;
+	}
+ul#list-nav {
+		list-style: none;
+		margin: 25px 0px 0px 0px;
+		padding: 0;
+		width: 525px;
+		font-family: "Century Gothic";
+		font-size: medium;
+		float: right;
+	}
+
+ul#list-nav li {
+display:inline
+}
+
+	ul#list-nav li a {
+		text-decoration: none;
+		padding: 5px 0;
+		width: 102px;
+		background: #C0C0C0;
+		color: #000000;
+		float: left;
+		text-align: center;
+		border-left: 1px solid #fff;
+	}
+	ul#list-nav li a:hover {
+		background: #FFFFFF;
+		color: #000;
+	}
+	#navigation {
+		border-radius: 12px;
+		margin: 0px auto 0px auto;
+		width: 800px;
+	}
+	#logo {
+		width: 32%;
+		float: left;
+	}
+	.auto-style2 {
+		margin-top: 29px;
+	}
